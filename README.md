@@ -1,1 +1,1 @@
-# E-commerce-python-EDA
+This subjective case study explores the experiences and perspectives of online shoppers regarding factors influencing conversion rates in e-commerce.  It also helps to optimize various strategies to significantly enhance their conversion rates, ensuring sustained growth and competitiveness in market.
